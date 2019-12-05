@@ -8,7 +8,6 @@ x=0
 # 1202 program alarm
 classe[1]=12
 classe[2]=2
-print(classe)
 
 
 def op (nb1, nb2, nb3, nb4):
@@ -23,5 +22,4 @@ while classe[x] != "99":
     x=x+4
 
 
-print(classe)
 print("here :", classe[0])
