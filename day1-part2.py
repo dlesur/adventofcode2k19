@@ -24,3 +24,6 @@ for loop in range(len(donnees)):
             total=total+b
 
 print("here:", total)
+
+
+#It works
