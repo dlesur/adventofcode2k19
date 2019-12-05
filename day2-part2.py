@@ -36,3 +36,5 @@ while soluce!=19690720:
 print(classe[0])
 print("here :", classe[1], "and :", classe[2])
 print("soluce :", classe[1]*100 + classe[2])
+
+#It works
